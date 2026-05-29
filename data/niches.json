@@ -1,22 +1,22 @@
 {
     "domain": "luxury.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "명품 가방",
+        "명품 지갑",
+        "명품 화장품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang luxury items."
+        "명품 가방": {
+            "topic": "Designer handbags, luxury clutches, tote bags.",
+            "role": "Luxury fashion expert."
         },
-        "수유/이유식": {
-            "topic": "luxury bottle sterilizers, luxury food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "명품 지갑": {
+            "topic": "Designer wallets, card holders, leather goods.",
+            "role": "Premium accessories reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "명품 화장품": {
+            "topic": "Luxury cosmetics, high-end skincare, premium perfumes.",
+            "role": "Luxury beauty curator."
         }
     }
 }
