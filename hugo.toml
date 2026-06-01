@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://luxury.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick luxury'
+title = 'GGG Pick 명품'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick luxury'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'luxury 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '명품 가방, 명품 지갑, 명품 화장품 등 특별한 나를 위한 프리미엄 럭셔리 브랜드 쿠팡 로켓배송 특가 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick luxury'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick luxury"
+  sitename = "GGG Pick 명품"
   siteurl = "https://luxury.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
